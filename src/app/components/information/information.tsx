@@ -13,10 +13,10 @@ export function Info() {
       <div>
         <div className="experienceWork-info">
           <span> 
-            -Desenvolvimento FrontEnd, Backend<br></br>
-            -Testes automatizados e2e <br></br>
-            -Javascript com Vuejs e estilização de componentes.<br></br>
-            -Prototipação de layouts<br></br>
+          ◦ Desenvolvimento FrontEnd, Backend<br></br>
+          ◦ Testes automatizados e2e <br></br>
+          ◦ Javascript com Vuejs e estilização de componentes.<br></br>
+          ◦ Prototipação de layouts<br></br>
             </span>
         </div>
       </div>

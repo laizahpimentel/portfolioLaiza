@@ -7,7 +7,7 @@ import { Skill } from "../skill/skill"
 export function Experience(){
     return(
         <div className="experience">
-          <SectionTitle text="Experience"/>
+          <SectionTitle text="About me"/>
           <p>3 years working as a Software Developer, in companys such as IBM and Freelas.</p>
           <div className="experience-time">
             <Skill image="/react.png" measure={2} years="2 years"/>
